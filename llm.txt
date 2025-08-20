@@ -1,0 +1,11 @@
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://b3visible.com/sitemap.xml
+Data-source: https://b3visible.com/ai-dataset.json
