@@ -1,9 +1,0 @@
-[
-  {
-    "name": "b3visible",
-    "description": "Wir bieten KI-Implementierungen und Workflow-Automatisierungen für Ihr Unternehmen an.",
-    "founded": "2025",
-    "website": "https://b3visible.com",
-    "contact": "kasra.shafiee@b3visible.com"
-  }
-]
